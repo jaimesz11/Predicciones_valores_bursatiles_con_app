@@ -4,6 +4,7 @@ Esta aplicación contiene dos pestañas: la primera para la exploración de los 
 
 **Enlace a la aplicación**: https://share.streamlit.io/jaimesz11/predicciones_valores_bursatiles_con_app/main/app_main.py
 
-### Ejemplo pestaña "Exploración de valores bursátiles":
+##### Ejemplo pestaña "Exploración de valores bursátiles":
+![Ejemplo_exploración_valores_bursátiles](https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png)
 
 
