@@ -8,3 +8,5 @@ Esta aplicación contiene dos pestañas: la primera para la exploración de los 
 ![Ejemplo_exploración_valores_bursátiles](https://github.com/jaimesz11/Predicciones_valores_bursatiles_con_app/blob/main/screenshots/expl_val_burs.PNG)
 
 
+##### Ejemplo pestaña "Predicciones con Prophet":
+![Ejemplo_predicciones_con_ prophet](https://github.com/jaimesz11/Predicciones_valores_bursatiles_con_app/blob/main/screenshots/pred_prophet_google.PNG)
